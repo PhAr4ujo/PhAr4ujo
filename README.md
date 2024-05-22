@@ -33,6 +33,11 @@ As a developer, I am constantly seeking to learn and enhance my skills. I am alw
   
 </div>
 
+<br>
+
+<div align="center">
+  <icon href="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a"></icon>
+</div>
 
 <!--
 **PhAr4ujo/PhAr4ujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
