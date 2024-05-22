@@ -43,7 +43,7 @@ As a developer, I am constantly seeking to learn and enhance my skills. I am alw
 
 <div align="center">
   
-## GitHub Stats
+# GitHub Stats
   
 </div>
 
