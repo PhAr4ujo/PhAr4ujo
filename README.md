@@ -7,9 +7,9 @@
 
 
 
-<p align="center">
-       [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-</p>
+
+##   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 
 Hello, my name is Pedro! 👽 I am an 18-year-old software developer passionate about creating innovative and functional solutions. Currently, I am focused on back-end development using the Laravel framework.
 
