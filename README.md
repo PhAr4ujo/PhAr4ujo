@@ -5,9 +5,9 @@
 
 <img src="https://i.pinimg.com/originals/2d/1a/89/2d1a89d4524e87b72320022991cc8c79.gif" style="width: 100%;">
 
-<div style="width: 100%;">
+
     [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-</div>
+
 
 
 Hello, my name is Pedro! 👽 I am an 18-year-old software developer passionate about creating innovative and functional solutions. Currently, I am focused on back-end development using the Laravel framework.
