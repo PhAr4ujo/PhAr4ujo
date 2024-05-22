@@ -15,14 +15,16 @@
 
 
 
-
-
+<p align=""/center>
 
 Hello, my name is Pedro! 👽 I am an 18-year-old software developer passionate about creating innovative and functional solutions. Currently, I am focused on back-end development using the Laravel framework.
 
 As a developer, I am constantly seeking to learn and enhance my skills. I am always open to new challenges and collaboration opportunities.
 
 Let's create together! 👨‍💻✨
+</p>
+
+
 
 
 ## Tecnology Stack
