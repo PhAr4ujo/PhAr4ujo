@@ -28,7 +28,10 @@ As a developer, I am constantly seeking to learn and enhance my skills. I am alw
 <br><br/>
 
 <div align="center">
-## Tecnology Stack</div>
+  
+## Technology Stack
+  
+</div>
 
 
 <!--
