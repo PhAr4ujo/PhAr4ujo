@@ -62,7 +62,7 @@ As a developer, I am constantly seeking to learn and enhance my skills. I am alw
 
 <div align="center">
   
- ### Thank You for visite her
+ ### Thank You for visite here ⚛️
 </div>
 
 <!--
