@@ -1,9 +1,9 @@
 <img src="https://i.pinimg.com/originals/93/9e/92/939e9273e3d6ef4f281cda31e9e62488.gif" class="full-width">
 
-.full-width {
+<style>.full-width {
     width: 100%;
 }
-
+<style/>
 
 
 ## Hi there 👋
