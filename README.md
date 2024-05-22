@@ -10,7 +10,7 @@
 
 
 
-[![GitHub WidgetBox align="center"](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox align="center"](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=metropolis)](https://github.com/Jurredr/github-widgetbox)
 
 
 
