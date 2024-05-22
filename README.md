@@ -7,10 +7,12 @@
 
 
 
+<p align="center">
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=metropolis" alt="GitHub WidgetBox" />
+  </a>
 
 
-
-[![GitHub WidgetBox align="center"](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=metropolis)](https://github.com/Jurredr/github-widgetbox)
 
 
 
