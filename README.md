@@ -25,9 +25,11 @@ As a developer, I am constantly seeking to learn and enhance my skills. I am alw
 </div>
 
 
+<br><br/>
 
+<div align="center">
+## Tecnology Stack</div>
 
-## Tecnology Stack
 
 <!--
 **PhAr4ujo/PhAr4ujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
