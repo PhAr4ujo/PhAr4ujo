@@ -42,7 +42,9 @@ As a developer, I am constantly seeking to learn and enhance my skills. I am alw
 </div>
 
 
-
+<div align="center">
+  <img src="https://myreadme.vercel.app/api/embed/PhAr4ujo?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</div>
 
 <!--
 **PhAr4ujo/PhAr4ujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
