@@ -33,7 +33,7 @@ As a developer, I am constantly seeking to learn and enhance my skills. I am alw
   
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align="center";>
     <img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" width="50">
     <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="50">
     <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="50">
