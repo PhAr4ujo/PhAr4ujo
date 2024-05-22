@@ -44,7 +44,7 @@ As a developer, I am constantly seeking to learn and enhance my skills. I am alw
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PhAr4ujo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhAr4ujo&show_icons=true&locale=en&layout=compact&theme=metropoli" alt="ovi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhAr4ujo&show_icons=true&locale=en&layout=compact&theme=holi" alt="ovi" />
 </div>
 
 <!--
