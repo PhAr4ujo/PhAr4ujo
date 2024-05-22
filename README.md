@@ -1,3 +1,6 @@
+<img src="https://i.pinimg.com/originals/93/9e/92/939e9273e3d6ef4f281cda31e9e62488.gif" style="width: 100%;">
+
+
 ## Hi there 👋
 
 <!--
@@ -14,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GIF](https://i.pinimg.com/originals/93/9e/92/939e9273e3d6ef4f281cda31e9e62488.gif)
+
