@@ -37,7 +37,8 @@ As a developer, I am constantly seeking to learn and enhance my skills. I am alw
 
 
 <div align="center">
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a">
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" 
+width="50">
 </div>
 
 
